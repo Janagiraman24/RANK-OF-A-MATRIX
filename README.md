@@ -19,12 +19,13 @@ End the program
 # RegisterNumber:212224230101
 ```
 import numpy as np
-a=np.array([[1,2,3],[3,6,9]])
+a=np.array([[3,2,5],[1,1,2],[3,3,6]])
 sol=np.linalg.matrix_rank(a)
 print(sol)
 ```
 ## Output:
-<img width="265" height="104" alt="Screenshot 2025-08-14 093428" src="https://github.com/user-attachments/assets/5ea4175e-d46e-43d4-bb0d-9a1eac116537" />
+<img width="1286" height="861" alt="Screenshot 2025-08-19 184616" src="https://github.com/user-attachments/assets/80763ffb-ee7d-4a03-b6ff-d99c59446316" />
+
 
 ## Result:
 Thus the rank for the given matrix is successfully solved by  using a python program.
